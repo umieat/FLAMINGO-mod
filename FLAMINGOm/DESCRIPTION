@@ -1,7 +1,7 @@
-Package: FLAMINGOr
+Package: FLAMINGOm
 Title: Reconstruct the 3D genome structure from Hi-C contact maps
 Version: 0.0.0.9000
-Authors@R: 
+Authors@R:
     person(given = "Hao",
            family = "Wang",
            role = c("aut", "cre"),
@@ -12,8 +12,8 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2.9000
-Depends: 
+Depends:
     R (>= 2.10)
-Suggests: 
+Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
